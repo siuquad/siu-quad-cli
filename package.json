@@ -1,0 +1,22 @@
+{
+  "name": "siu-quad-cli",
+  "version": "1.0.0",
+  "description": "control the SIU quadcopter",
+  "main": "repl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siuquad/siu-quad-cli"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siuquad/siu-quad-cli/issues"
+  },
+  "homepage": "https://github.com/siuquad/siu-quad-cli",
+  "dependencies": {
+    "ar-drone": "^0.3.3"
+  }
+}
